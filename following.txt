@@ -84,7 +84,6 @@
 22784458,Fwiz
 526316060,DaveChappelle
 2916305152,Snowden
-256573865,JonahHill
 83184383,Bartekshirt
 288768326,AlwaysGeeky
 1263967268,HackerNewsOnion
