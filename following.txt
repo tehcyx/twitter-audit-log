@@ -419,5 +419,4 @@
 279067744,ConcernedApe
 1200616796295847936,unusual_whales
 297547951,LodayaTejas
-337119125,wongmjane
 5649,igb
